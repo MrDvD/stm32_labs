@@ -1,0 +1,5 @@
+../Core/Src/funcs.c:3:6:SETBIT	24	static
+../Core/Src/funcs.c:11:6:CLRBIT	24	static
+../Core/Src/funcs.c:19:5:GETBIT	24	static
+../Core/Src/funcs.c:31:6:setup_systick	8	static
+../Core/Src/funcs.c:39:6:func	24	static

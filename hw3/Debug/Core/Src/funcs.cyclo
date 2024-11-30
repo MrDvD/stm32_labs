@@ -1,0 +1,5 @@
+../Core/Src/funcs.c:3:6:SETBIT	2
+../Core/Src/funcs.c:11:6:CLRBIT	2
+../Core/Src/funcs.c:19:5:GETBIT	2
+../Core/Src/funcs.c:31:6:setup_systick	1
+../Core/Src/funcs.c:39:6:func	6
